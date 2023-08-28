@@ -1,0 +1,1 @@
+Repository with solutions for excercises from Full Stack open course.
